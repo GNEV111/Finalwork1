@@ -1,3 +1,4 @@
 ﻿  Laba10(prog).cpp
-C:\Users\Admin\Desktop\Laba10-11-12\Laba10(prog)\Laba10(prog)\Laba10(prog).cpp(101,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Laba10(prog).vcxproj -> C:\Users\Admin\Desktop\Laba10-11-12\Laba10(prog)\x64\Debug\Laba10(prog).exe
+C:\Users\gdffh\OneDrive\Рабочий стол\Новая папка\git\LR8\FinalWork1\Laba10(prog)\Laba10(prog).cpp(101,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\gdffh\OneDrive\Рабочий стол\Новая папка\git\LR8\FinalWork1\x64\Debug\Laba10(prog).exe при последней инкрементной компоновке; выполняется полная компоновка
+  Laba10(prog).vcxproj -> C:\Users\gdffh\OneDrive\Рабочий стол\Новая папка\git\LR8\FinalWork1\x64\Debug\Laba10(prog).exe
